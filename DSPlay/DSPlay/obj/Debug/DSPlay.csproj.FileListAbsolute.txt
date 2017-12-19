@@ -1,0 +1,18 @@
+C:\Users\hwadhwan\OneDrive - Trinity Technology Group, Inc\DS\DSPlay\DSPlay\bin\Debug\DSPlay.exe.config
+C:\Users\hwadhwan\OneDrive - Trinity Technology Group, Inc\DS\DSPlay\DSPlay\bin\Debug\DSPlay.exe
+C:\Users\hwadhwan\OneDrive - Trinity Technology Group, Inc\DS\DSPlay\DSPlay\bin\Debug\DSPlay.pdb
+C:\Users\hwadhwan\OneDrive - Trinity Technology Group, Inc\DS\DSPlay\DSPlay\obj\Debug\DSPlay.csprojResolveAssemblyReference.cache
+C:\Users\hwadhwan\OneDrive - Trinity Technology Group, Inc\DS\DSPlay\DSPlay\obj\Debug\DSPlay.exe
+C:\Users\hwadhwan\OneDrive - Trinity Technology Group, Inc\DS\DSPlay\DSPlay\obj\Debug\DSPlay.pdb
+C:\Users\NewUser\OneDrive\OneDrive - Trinity Technology Group, Inc\DS\DSPlay\DSPlay\bin\Debug\DSPlay.exe.config
+C:\Users\NewUser\OneDrive\OneDrive - Trinity Technology Group, Inc\DS\DSPlay\DSPlay\obj\Debug\DSPlay.exe
+C:\Users\NewUser\OneDrive\OneDrive - Trinity Technology Group, Inc\DS\DSPlay\DSPlay\obj\Debug\DSPlay.pdb
+C:\Users\NewUser\OneDrive\OneDrive - Trinity Technology Group, Inc\DS\DSPlay\DSPlay\bin\Debug\DSPlay.exe
+C:\Users\NewUser\OneDrive\OneDrive - Trinity Technology Group, Inc\DS\DSPlay\DSPlay\bin\Debug\DSPlay.pdb
+C:\Users\NewUser\OneDrive\OneDrive - Trinity Technology Group, Inc\DS\DSPlay\DSPlay\obj\Debug\DSPlay.csprojResolveAssemblyReference.cache
+C:\Users\hwadhwan\Source\Repos\DataStructures\DSPlay\DSPlay\bin\Debug\DSPlay.exe.config
+C:\Users\hwadhwan\Source\Repos\DataStructures\DSPlay\DSPlay\obj\Debug\DSPlay.exe
+C:\Users\hwadhwan\Source\Repos\DataStructures\DSPlay\DSPlay\obj\Debug\DSPlay.pdb
+C:\Users\hwadhwan\Source\Repos\DataStructures\DSPlay\DSPlay\bin\Debug\DSPlay.exe
+C:\Users\hwadhwan\Source\Repos\DataStructures\DSPlay\DSPlay\bin\Debug\DSPlay.pdb
+C:\Users\hwadhwan\Source\Repos\DataStructures\DSPlay\DSPlay\obj\Debug\DSPlay.csprojResolveAssemblyReference.cache
